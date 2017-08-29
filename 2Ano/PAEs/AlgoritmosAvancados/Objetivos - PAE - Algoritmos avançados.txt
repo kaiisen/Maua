@@ -1,0 +1,18 @@
+Linguagem:
+- C++
+- Python
+
+Algoritmos e aplicações:
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Bubble Sort
+- Selection Sort
+- Sets
+- Linked List
+- Double Linked List
+- Binary Search
+- Heap Sort
+- Arvore
+- Busca em arvore
+- Biblioteca Padrão (stl)
