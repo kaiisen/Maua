@@ -86,16 +86,26 @@ São Paulo: Edgard Blücher: Instituto Mauá de Tecnologia, 2003. 152 p.
 
 ECM306 - Tópicos Avançados em Estruturas de Dados
 
-DASGUPTA, Sanjoy; PAPADIMITRIOU, Christos; VAZIRANI, Umesh. Algoritmos.
-[Algorithms]. Trad. Guilherme Albuquerque Pinto. São Paulo, SP: McGraw-Hill,
-2009. 320 p. ISBN 9788577260324.
-
 CORMEN, Thomas H. Algoritmos: teoria e prática. Trad. de Vandenberg D. de
 Souza; rev. téc. de Jussara Pimenta Matos. Rio de Janeiro, RJ: Campus, 2002.
 916 p. ISBN 85-352-0926-3.
 
+DASGUPTA, Sanjoy; PAPADIMITRIOU, Christos; VAZIRANI, Umesh. Algoritmos.
+[Algorithms]. Trad. Guilherme Albuquerque Pinto. São Paulo, SP: McGraw-Hill,
+2009. 320 p. ISBN 9788577260324.
+
 GUIMARÃES, Angelo de Moura; LAGES, Newton Alberto de Castilho. Algoritmos e
 estruturas de dados. Rio de Janeiro, RJ: LTC, 1994. 216 p.
+
+Complexidade de Algoritmos - Série Livros Didáticos - UFRGS
+
+Algorithms - Design and Analysis - Harsh Bhasin - Oxford University Press - 2015
+
+Introduction to the Design and Analysis of Algorithms - Anany Levitin, Pearson, 2012
+
+Data Structures Using C - Tenenbaum - Pearson
+
+Data Structures Using C - Reema Thareja
 
 ----------------------------------------------------
 
