@@ -25,6 +25,8 @@
 
     function renderHTML() {
         db = db.filter((question, index, self) => self.findIndex(q => q.pergunta.replace(/_+/g, '').toUpperCase() === question.pergunta.replace(/_+/g, '').toUpperCase()) === index);
+        //db = db.filter((question, index, self) => self.find(q => q.pergunta === question.pergunta));
+        //db = db.filter((q, i, s) => s.indexOf(q) === i) // MAYBE? Se conseguir colocar o replace lá pra cima ou arrumar um jeito de fazer com ele
         console.log(db);
 
         for (let i = 0; i < db.length; i++) {
